@@ -37,7 +37,7 @@ Medium blog writer Automation is an AI-powered blog post generation tool that us
 
 1. Clone the repository: 
 ```
-    git clone https://github.com/shon-Rocky/Medium_blog_writer.git
+    git clone https://github.com/shon-Rocky/Medium_blog_writer_automation.git
 ```
 2. Navigate to the project directory:
 ```
