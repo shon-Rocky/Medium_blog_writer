@@ -1,4 +1,4 @@
-**Crew AI: AI-Powered Blog Post Generation**
+**Medium blog writer : AI-Powered Blog Post Generation**
 =====================================================
 
 **Table of Contents**
@@ -21,7 +21,7 @@
 **Introduction**
 ---------------
 
-Crew AI is an AI-powered blog post generation tool that uses natural language processing and machine learning algorithms to craft high-quality, engaging content. Our goal is to inspire, enlighten, and connect with others on a deeper level through storytelling and accessible explanations.
+Medium blog writer is an AI-powered blog post generation tool that uses natural language processing and machine learning algorithms to craft high-quality, engaging content. Our goal is to inspire, enlighten, and connect with others on a deeper level through storytelling and accessible explanations.
 
 **Installation**
 --------------
@@ -76,7 +76,7 @@ Crew AI is an AI-powered blog post generation tool that uses natural language pr
 
 ### Example blog
 
-[Blog link](https://medium.com/@shonmon168/demystifying-cnns-in-deep-learning-a-journey-into-the-mathematical-intricacies-and-pytorch-2781dece19d2)
+[Blog link](https://medium.com/@shonmon168/descriptive-statistics-a-simple-guide-to-understanding-complex-data-a89cb1f706b4)
 
 **Contributing**
 ------------
