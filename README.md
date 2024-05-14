@@ -1,4 +1,4 @@
-**Medium blog writer : AI-Powered Blog Post Generation**
+**Medium blog writer Automation : AI-Powered Blog Post Generation**
 =====================================================
 
 **Table of Contents**
@@ -21,7 +21,7 @@
 **Introduction**
 ---------------
 
-Medium blog writer is an AI-powered blog post generation tool that uses natural language processing and machine learning algorithms to craft high-quality, engaging content. Our goal is to inspire, enlighten, and connect with others on a deeper level through storytelling and accessible explanations.
+Medium blog writer Automation is an AI-powered blog post generation tool that uses natural language processing and machine learning algorithms to craft high-quality, engaging content. Our goal is to inspire, enlighten, and connect with others on a deeper level through storytelling and accessible explanations.
 
 **Installation**
 --------------
